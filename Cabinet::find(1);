@@ -1,0 +1,60 @@
+[90m= [39m[34;4mApp\Models\Membres[39;24m {#6321
+    [34mid[39m: [35m1[39m,
+    [34mname[39m: "[32mJohn[39m",
+    [34mlastname[39m: "[32mDoe[39m",
+    [34madresse[39m: "[32m123 Main St[39m",
+    [34mphone[39m: [35m1234567890[39m,
+    [34memail[39m: "[32madmin@example.com[39m",
+    [34memail_verified_at[39m: [36mnull[39m,
+    #[33mpassword[39m: "[32m$2y$10$5zDfG5zjuWgoUnQzy9bRxevuBPG3X95b3ACHgg3I8AWqkDxmKkUZy[39m",
+    [34mtype[39m: "[32mmembres[39m",
+    #[33mremember_token[39m: [36mnull[39m,
+    [34mcreated_at[39m: "[32m2023-05-29 00:23:22[39m",
+    [34mupdated_at[39m: "[32m2023-05-29 00:23:22[39m",
+  }
+
+[90m= [39m[34;4mApp\Models\Membres[39;24m {#6351
+    [34mid[39m: [35m1[39m,
+    [34mname[39m: "[32mJohn[39m",
+    [34mlastname[39m: "[32mgher[39m",
+    [34madresse[39m: "[32m123 Main St[39m",
+    [34mphone[39m: [35m1234567890[39m,
+    [34memail[39m: "[32madmin@example.com[39m",
+    [34memail_verified_at[39m: [36mnull[39m,
+    #[33mpassword[39m: "[32m$2y$10$Fw9wocgKdo70asWOKfWaD.9n44J8QXpcG/Rg4gDhFApAyoX1MXofy[39m",
+    [34mtype[39m: "[32mmembres[39m",
+    #[33mremember_token[39m: [36mnull[39m,
+    [34mcreated_at[39m: "[32m2023-06-02 02:23:51[39m",
+    [34mupdated_at[39m: "[32m2023-06-02 02:23:51[39m",
+  }
+
+[90m= [39m[34;4mApp\Models\Membres[39;24m {#6362
+    [34mid[39m: [35m1[39m,
+    [34mname[39m: "[32mJohn[39m",
+    [34mlastname[39m: "[32mgher[39m",
+    [34madresse[39m: "[32m123 Main St[39m",
+    [34mphone[39m: [35m1234567890[39m,
+    [34memail[39m: "[32madmin@example.com[39m",
+    [34memail_verified_at[39m: [36mnull[39m,
+    #[33mpassword[39m: "[32m$2y$10$o/O561QuhP.5Fc8rGdDr7.2fV3DzVmKV.2XUB/R3KsAZZvMRiZBEq[39m",
+    [34mtype[39m: "[32mmembres[39m",
+    #[33mremember_token[39m: [36mnull[39m,
+    [34mcreated_at[39m: "[32m2023-06-06 13:22:52[39m",
+    [34mupdated_at[39m: "[32m2023-06-06 13:22:52[39m",
+  }
+
+[90m= [39m[34;4mApp\Models\Membres[39;24m {#6362
+    [34mid[39m: [35m1[39m,
+    [34mname[39m: "[32mJohn[39m",
+    [34mlastname[39m: "[32mgher[39m",
+    [34madresse[39m: "[32m123 Main St[39m",
+    [34mphone[39m: [35m1234567890[39m,
+    [34memail[39m: "[32madmin@example.com[39m",
+    [34memail_verified_at[39m: [36mnull[39m,
+    #[33mpassword[39m: "[32m$2y$10$tTDXKjYM2h7LIKYExBzOve7uwN0x2t1y2qtXSEhHUjNMTvcL6LPDa[39m",
+    [34mtype[39m: "[32mmembres[39m",
+    #[33mremember_token[39m: [36mnull[39m,
+    [34mcreated_at[39m: "[32m2023-06-06 13:24:01[39m",
+    [34mupdated_at[39m: "[32m2023-06-06 13:24:01[39m",
+  }
+
